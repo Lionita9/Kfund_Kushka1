@@ -1,0 +1,39 @@
+.dva {
+    text-align: center;
+    background: rgb(254,0,0);
+background: linear-gradient(90deg, rgba(254,0,0,1) 0%, rgba(240,144,0,1) 16%, rgba(235,208,0,1) 31%, rgba(44,255,0,1) 47%, rgba(0,249,233,1) 61%, rgba(0,113,246,1) 75%, rgba(179,0,255,1) 89%);
+}
+
+.tri {
+    color: rgb(14, 13, 13);
+    background-color: rgba(0,249,233,1);
+}
+.xz  {
+    color: rgb(255, 255, 255);
+    background-color: rgb(241, 176, 176);
+}
+.wq 
+{
+    color: white;
+    background-color: rgb(241, 151, 151);
+}
+.pp {
+    color: white;
+    background-color: rgb(241, 148, 148);
+}
+.oo {
+    color: white;
+    background-color: rgb(241, 131, 131);
+}
+.ii {
+    color: white;
+    background-color: rgb(241, 157, 157);
+}
+
+table {
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+    text-align: center;
+}
